@@ -58,6 +58,14 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 
 ---
 
+### 🔥 GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=ambient_gradient&hide_border=true" alt="VixenCreations GitHub streak stats" />
+</p>
+
+---
+
 <!--
   Optional bits to fill in when you're ready:
   - 🌐 Store / product links (Gumroad, Booth, Jinxxy, Payhip, etc.)
