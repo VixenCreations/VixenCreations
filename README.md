@@ -58,15 +58,6 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VixenCreations&show_icons=true&hide_border=true&theme=tokyonight" alt="VixenCreations GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VixenCreations&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165" />
-</p>
-
----
-
 <!--
   Optional bits to fill in when you're ready:
   - 🌐 Store / product links (Gumroad, Booth, Jinxxy, Payhip, etc.)
