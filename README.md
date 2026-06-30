@@ -49,7 +49,6 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 | **[AiCodeDetector](https://github.com/VixenCreations/AiCodeDetector)** | A toolset to train, generate, and detect AI usage in codebases. |
 | **[Fish-Appraiser-Engine](https://github.com/VixenCreations/Fish-Appraiser-Engine)** | A zero-dependency local web engine that models the in-game economy of the VRChat world "Fish!". |
 | **[VixenLens](https://github.com/VixenCreations/VixenLens)** | A Rust/Tauri engine for fast local search across VRChat snapshot metadata libraries. *(fork)* |
-| **[audiolink](https://github.com/VixenCreations/audiolink)** | Audio-reactive prefabs for VRChat. *(fork)* |
 
 ---
 
