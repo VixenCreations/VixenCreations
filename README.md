@@ -39,9 +39,9 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 
 | Project | What it is |
 | --- | --- |
-| **VixenWear** | A premium latex material for VRChat avatars (Built-In RP), driven by a clean Thry inspector. Ships in base and SPS variants. |
+| **[VixenWear Latex Ultra](https://vixenlicous.gumroad.com/l/latex-ultra)** | A premium latex material for VRChat avatars (Built-In RP), driven by a clean Thry inspector. Ships in base and SPS variants. |
 | **VixenWear ClothingPro** | The SPS companion material, twinned with VixenWear for clothing-style use. |
-| **VixenWorld** | A shader suite for VRChat worlds, with support for AudioLink, VRSL, LTCGI, TS Lighting, and Light Volumes. |
+| **[VixenWorld Surface Ultra](https://vixenlicous.gumroad.com/l/surface-ultra)** | A shader suite for VRChat worlds, with support for AudioLink, VRSL, LTCGI, TS Lighting, and Light Volumes. |
 | **VixForge Director** | A VRChat world-creator package (editor tooling + UdonSharp runtime + samples). |
 | **[VixenToolBox](https://github.com/VixenCreations/VixenToolBox)** | A Unity creator toolkit (editor utilities, pipeline automation, avatar architecture blueprints) plus the VixForge website and developer docs hub. |
 | **[Stream Connector](https://github.com/VixenCreations/Stream-Connector-Public)** | A desktop bridge linking Streamer.bot, VRChat OSC, and haptics hardware (Intiface/Buttplug, PiShock, GiggleTech) for interactive streams. |
