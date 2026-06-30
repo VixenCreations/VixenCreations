@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=github-dark&hide_border=true" alt="VixenCreations GitHub streak stats" />
+</p>
+
 ---
 
 ### 🦊 About
@@ -44,11 +48,5 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 | **[AiCodeDetector](https://github.com/VixenCreations/AiCodeDetector)** | A toolset to train, generate, and detect AI usage in codebases. |
 | **[Fish-Appraiser-Engine](https://github.com/VixenCreations/Fish-Appraiser-Engine)** | A zero-dependency local web engine that models the in-game economy of the VRChat world "Fish!". |
 | **[VixenLens](https://github.com/VixenCreations/VixenLens)** | A Rust/Tauri engine for fast local search across VRChat snapshot metadata libraries. *(fork)* |
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=github-dark&hide_border=true" alt="VixenCreations GitHub streak stats" />
-</p>
 
 ---
