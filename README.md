@@ -35,8 +35,6 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 
 ### ✨ What I build
 
-> Linked names are public on GitHub; the rest are closed-source / commercial products.
-
 | Project | What it is |
 | --- | --- |
 | **[VixenWear Latex Ultra](https://vixenlicous.gumroad.com/l/latex-ultra)** | A premium latex material for VRChat avatars (Built-In RP), driven by a clean Thry inspector. Ships in base and SPS variants. |
