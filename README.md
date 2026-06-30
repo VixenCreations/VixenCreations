@@ -40,6 +40,19 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 
 ---
 
+### 📦 Public repositories
+
+| Repo | What it is |
+| --- | --- |
+| **[VixenToolBox](https://github.com/VixenCreations/VixenToolBox)** | Custom Unity editor utilities, pipeline automation, and avatar architecture blueprints. |
+| **[Stream-Connector-Public](https://github.com/VixenCreations/Stream-Connector-Public)** | The public-facing repository for Stream Connector. |
+| **[AiCodeDetector](https://github.com/VixenCreations/AiCodeDetector)** | A toolset to train, generate, and detect AI usage in codebases. |
+| **[Fish-Appraiser-Engine](https://github.com/VixenCreations/Fish-Appraiser-Engine)** | A zero-dependency local web engine that models the in-game economy of the VRChat world "Fish!". |
+| **[VixenLens](https://github.com/VixenCreations/VixenLens)** | A Rust/Tauri engine for fast local search across VRChat snapshot metadata libraries. *(fork)* |
+| **[audiolink](https://github.com/VixenCreations/audiolink)** | Audio-reactive prefabs for VRChat. *(fork)* |
+
+---
+
 ### 🧰 Tech I work with
 
 <p>
@@ -61,7 +74,7 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 ### 🔥 GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=ambient_gradient&hide_border=true" alt="VixenCreations GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=github-dark&hide_border=true" alt="VixenCreations GitHub streak stats" />
 </p>
 
 ---
