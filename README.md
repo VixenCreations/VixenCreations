@@ -5,8 +5,6 @@
   avatar &amp; world shaders, in-world Udon tooling, and a streaming + haptics bridge.</em>
 </p>
 
-### 🧰 Tech I work with
-
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Built--In%20RP-3A3A3A" alt="Built-In RP" />
@@ -48,8 +46,6 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 | **[VixenLens](https://github.com/VixenCreations/VixenLens)** | A Rust/Tauri engine for fast local search across VRChat snapshot metadata libraries. *(fork)* |
 
 ---
-
-### 🔥 GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=github-dark&hide_border=true" alt="VixenCreations GitHub streak stats" />
