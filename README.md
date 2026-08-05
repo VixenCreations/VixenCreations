@@ -5,23 +5,19 @@
   avatar &amp; world shaders, in-world Udon tooling, and a streaming + haptics bridge.</em>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VixenCreations&theme=github-dark&hide_border=true" alt="VixenCreations GitHub streak stats" />
-</p>
-
 ---
 
-### 🦊 About
+## About
 
 I design and build creator tools for **VRChat** under the VixForge banner: high-end materials for avatars and worlds, editor tooling that makes them easy to use, and the docs/site infrastructure that ties it all together. Outside of Unity, I build a desktop bridge that wires streaming platforms, VRChat OSC, and haptics hardware together for interactive streams.
 
-- 🔭 **Currently:** polishing the VixForge shader lineup and tooling, and prepping projects for the upcoming Unity 6 migration.
-- 🛠️ **Day to day:** HLSL shaders (Built-In Render Pipeline), Thry-driven inspectors, UdonSharp, Unity editor tooling, and a fair bit of Python/Web glue.
-- 💬 **Ask me about:** VRChat shaders, Udon world scripting, OSC, or building creator tooling.
+- **Currently:** polishing the VixForge shader lineup and tooling, and prepping projects for the upcoming Unity 6 migration.
+- **Day to day:** HLSL shaders (Built-In Render Pipeline), Thry-driven inspectors, UdonSharp, Unity editor tooling, and a fair bit of Python/Web glue.
+- **Ask me about:** VRChat shaders, Udon world scripting, OSC, or building creator tooling.
 
 ---
 
-### ✨ What I build
+## What I build
 
 | Project | What it is |
 | --- | --- |
@@ -37,7 +33,7 @@ I design and build creator tools for **VRChat** under the VixForge banner: high-
 
 ---
 
-### What I work with
+## What I work with
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" />
